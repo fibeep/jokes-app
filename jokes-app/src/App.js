@@ -1,6 +1,6 @@
 import './App.css';
 import Jokes from './Jokes'
-
+import BasicCard from './Card';
 
 function App() {
   return (
